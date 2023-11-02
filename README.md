@@ -1,5 +1,5 @@
 # Bienvenue  chez Kercode
-![Logo Kercode](images\kercode.jpg)
+![Logo Kercode](images/kercode.jpg)
 
 ### Introduction
 Ceci est un petit texte d'introduction. On passe à la ligne suivante (*sans sauter une ligne*) en terminant celle-ci
