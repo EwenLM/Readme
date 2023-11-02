@@ -20,8 +20,9 @@ texte avec :
 
 * la gestion de la différence entre le retour à la ligne et le démarrage
 d'un nouveau paragraphe (avec saut d'une ligne vide),
-* le respect des mots en *italique*, en **gras** et en **_italiquegras_**,<img style="float: right;" src="images/markdown.png">
+* le respect des mots en *italique*, en **gras** et en **_italiquegras_**,
 * le respect de la structuration du document (niveau hiérarchie),
+<img style="float: right;" src="images/markdown.png">
 * l'insertion d'images,
 * l'insertion de d'hyperliens HTML,
 * l'insertion de code HTML (*à vous de trouver où ; c'est du bonus*)  
