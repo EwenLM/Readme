@@ -17,10 +17,10 @@ points dans la prolongation de ce qui a été vu en cours.
 
 Cet exercice a pour objectif de reproduire le plus fidèlement possible ce
 texte avec :
-<img style="float: right;" src="images/markdown.png">
+
 * la gestion de la différence entre le retour à la ligne et le démarrage
 d'un nouveau paragraphe (avec saut d'une ligne vide),
-* le respect des mots en *italique*, en **gras** et en **_italiquegras_**,
+* le respect des mots en *italique*, en **gras** et en **_italiquegras_**,<img style="float: right;" src="images/markdown.png">
 * le respect de la structuration du document (niveau hiérarchie),
 * l'insertion d'images,
 * l'insertion de d'hyperliens HTML,
