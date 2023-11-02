@@ -15,9 +15,8 @@ points dans la prolongation de ce qui a été vu en cours.
 
 ### La rédaction au format Markdown
 
-Cet exercice a pour objectif de reproduire le plus fidèlement possible ce
+Cet exercice a pour objectif de reproduire le plus fidèlement possible ce <img style="float: right;" src="images/markdown.png">
 texte avec :
-<img style="float: right;" src="images/markdown.png">
 * la gestion de la différence entre le retour à la ligne et le démarrage
 d'un nouveau paragraphe (avec saut d'une ligne vide),
 * le respect des mots en *italique*, en **gras** et en **_italiquegras_**,
